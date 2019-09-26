@@ -3,8 +3,8 @@
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a> 
-# VACŌ - PROJECT TEMPLATE FRAMEWORK
-Vacō is a project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
+# GOLEM OPERATIONS - Rogue Cryptomining Research
+Golem is an expansion of ![Yugen project](https://github.com/HELVE/YUGEN). 
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
