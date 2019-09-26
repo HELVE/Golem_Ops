@@ -4,7 +4,7 @@
 
 <a name="intro"></a> 
 # GOLEM OPERATIONS - Rogue Cryptomining Research
-Golem is an expansion of ![Yugen project](https://github.com/HELVE/YUGEN). 
+Golem is an expansion of [Yugen project](https://github.com/HELVE/YUGEN). 
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
